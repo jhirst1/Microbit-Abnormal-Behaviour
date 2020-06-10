@@ -1,0 +1,2 @@
+# Microbit-Abnormal-Behaviour
+This game makes use of the MicroBit's internal sensors, such as the compass, directional tilt, user input buttons, and motion control.   The aim is to remain undetected on "Bob's" network for as long as possible,  however there are anomaly detection rules in place to identify  'unusual' behaviour for bob. You need to emulater Bob's working pattern  to remain undetected. The more abnormal your behaviour is compared to Bob's, then the higher your abnormality risk score will go. If you reach a risk score of 10, then you lose the game. 
