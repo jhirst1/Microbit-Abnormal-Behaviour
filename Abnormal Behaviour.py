@@ -2,7 +2,7 @@
 =====================================
 MicroBit Abnormal Behaviour Game
 =====================================
-:Author: kingboop
+:Author: jhirst1
 :Date: Sun May  5 18:29:19 2019
 
 =====================================
